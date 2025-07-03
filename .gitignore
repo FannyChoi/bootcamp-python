@@ -1,0 +1,16 @@
+# Python
+_pycache_/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/ 
+build/
+
+# Virtual environments
+bootcamp-env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
